@@ -1,0 +1,1 @@
+# Altium-Designer-2025-Version
